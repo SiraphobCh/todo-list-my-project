@@ -82,25 +82,25 @@ async function getMe() {
 
 ### 1A : Project Setup (10pts)
 
-- [ ] Create Project with Create React App or ViteJs
+- [x] Create Project with Create React App or ViteJs
 - [ ] Clean up unused files and code
-- [ ] Install dependencies or packages that you need for this project
+- [x] Install dependencies or packages that you need for this project
 - [ ] Pick some CSS Framework and Install eg. Bootstrap, Tailwind, Scss, Vanilla css or MUI
 - [ ] Setup Well-organized Folder Structure
-- [ ] Using Git and Github for Version Control System
-- [ ] Using Comand Line for run project
+- [x] Using Git and Github for Version Control System
+- [x] Using Comand Line for run project
 
 ### 1B : Build UI with React Component (20pts)
 
-- [ ] Understand UI Design and UI Flow (Figma)
+- [x] Understand UI Design and UI Flow (Figma)
 - [ ] Write Clean & Reausable UI
 - [ ] Good Naming for Component
-- [ ] Manage UI state appropriately
+- [x] Manage UI state appropriately
 
 ### 1C : Precise UI with Design (20pts)
 
 - [ ] Precise UI : Login Page
-- [ ] Precise UI : Todo Page
+- [x] Precise UI : Todo Page
 
 ## Part-2 : Feature and Logic (50pts)
 
@@ -109,15 +109,15 @@ async function getMe() {
 - [ ] Login with email and password
 - [ ] Can submit form with Enter key or Button
 - [ ] Implement State Management for Login Page
-- [ ] Connect to API
+- [x] Connect to API
 - [ ] Can Login
 
 ### 2B : List Manipulate (35pts)
 
-- [ ] Show List when Render Page (State Management & API)
-- [ ] Can Create List item (State Management & API)
-- [ ] Can Update List item (State Management & API)
-- [ ] Can Delete List item (State Management & API)
+- [x] Show List when Render Page (State Management & API)
+- [x] Can Create List item (State Management & API)
+- [x] Can Update List item (State Management & API)
+- [x] Can Delete List item (State Management & API)
 - [ ] Can Logout (State Management & API)
 
 #### suggestion
@@ -142,10 +142,10 @@ async function getMe() {
 
 - [ ] DRY (Don't Repeat Yourself)
 - [ ] SOLID (S : Single Responsibility Principle)
-- [ ] Avoid Big Component
-- [ ] Avoid Magic Value (Hard Code)
-- [ ] Readable Code
-- [ ] Good Naming for Variable, Function, Component, etc.
+- [x] Avoid Big Component
+- [x] Avoid Magic Value (Hard Code)
+- [x] Readable Code
+- [x] Good Naming for Variable, Function, Component, etc.
 - [ ] Good Commenting
 - [ ] Implement React Design Pattern and Avoid Anti Pattern
 - [ ] Use Async Await instead of Promise then catch

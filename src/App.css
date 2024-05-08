@@ -1,0 +1,40 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  display: flex;
+  justify-content: center;
+}
+
+.app {
+  border: 1px solid white;
+  height: 100vh;
+  width: 70vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.rocketadd {
+  display: flex;
+  gap: 10px;
+}
+
+li {
+  list-style: none;
+}
+
+.todo__item {
+  display: flex;
+  align-items: center;
+  flex-grow: 1;
+  width: 300px;
+  /* border: 1px solid white; */
+}
+
+.todo__item > p {
+  height: 100%;
+  width: 60%;
+}
