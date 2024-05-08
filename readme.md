@@ -133,8 +133,8 @@ async function getMe() {
 - [ ] Using Context API for State Management (20pts)
 - [ ] Using React Router for Routing (10pts)
 - [ ] New Feature or Amazing UI (Depend on your creativity) (15pts)
-- [ ] Deploy to Vercel or Netlify (15pts)
-- paste your link here
+- [x] Deploy to Vercel or Netlify (15pts)
+- https://todo-list-my-project.vercel.app/
 
 ## Part-4 : Become Extraordinary Developer (100pts)
 
